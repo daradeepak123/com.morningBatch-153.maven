@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="15" passed="15" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-08T08:09:30 IST" name="Suite" finished-at="2024-08-08T08:09:59 IST" duration-ms="28946">
+    <groups>
+    </groups>
+    <test started-at="2024-08-08T08:09:30 IST" name="Test" finished-at="2024-08-08T08:09:59 IST" duration-ms="28946">
+      <class name="testNgLearn.BaseClass">
+        <test-method signature="performTest()[pri:0, instance:testNgLearn.BaseClass@13b6aecc]" started-at="2024-08-08T08:09:57 IST" name="performTest" finished-at="2024-08-08T08:09:57 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- performTest -->
+        <test-method signature="performTest()[pri:0, instance:testNgLearn.BaseClass@13b6aecc]" started-at="2024-08-08T08:09:57 IST" name="performTest" finished-at="2024-08-08T08:09:57 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- performTest -->
+        <test-method signature="performTest()[pri:0, instance:testNgLearn.BaseClass@13b6aecc]" started-at="2024-08-08T08:09:57 IST" name="performTest" finished-at="2024-08-08T08:09:57 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- performTest -->
+        <test-method signature="performTest()[pri:0, instance:testNgLearn.BaseClass@13b6aecc]" started-at="2024-08-08T08:09:57 IST" name="performTest" finished-at="2024-08-08T08:09:57 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- performTest -->
+        <test-method signature="performTest()[pri:0, instance:testNgLearn.BaseClass@13b6aecc]" started-at="2024-08-08T08:09:57 IST" name="performTest" finished-at="2024-08-08T08:09:57 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- performTest -->
+        <test-method signature="performTest()[pri:0, instance:testNgLearn.BaseClass@13b6aecc]" started-at="2024-08-08T08:09:57 IST" name="performTest" finished-at="2024-08-08T08:09:57 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- performTest -->
+        <test-method signature="performTest()[pri:0, instance:testNgLearn.BaseClass@13b6aecc]" started-at="2024-08-08T08:09:57 IST" name="performTest" finished-at="2024-08-08T08:09:57 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- performTest -->
+        <test-method signature="performTest()[pri:0, instance:testNgLearn.BaseClass@13b6aecc]" started-at="2024-08-08T08:09:57 IST" name="performTest" finished-at="2024-08-08T08:09:57 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- performTest -->
+        <test-method signature="performTest()[pri:0, instance:testNgLearn.BaseClass@13b6aecc]" started-at="2024-08-08T08:09:58 IST" name="performTest" finished-at="2024-08-08T08:09:58 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- performTest -->
+        <test-method signature="performTest()[pri:0, instance:testNgLearn.BaseClass@13b6aecc]" started-at="2024-08-08T08:09:58 IST" name="performTest" finished-at="2024-08-08T08:09:58 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- performTest -->
+        <test-method signature="performTest1()[pri:0, instance:testNgLearn.BaseClass@13b6aecc]" started-at="2024-08-08T08:09:58 IST" name="performTest1" description="general test" finished-at="2024-08-08T08:09:58 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- performTest1 -->
+        <test-method signature="performTest2()[pri:0, instance:testNgLearn.BaseClass@13b6aecc]" started-at="2024-08-08T08:09:58 IST" name="performTest2" finished-at="2024-08-08T08:09:58 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- performTest2 -->
+      </class> <!-- testNgLearn.BaseClass -->
+      <class name="testNgLearn.DashBoard">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:testNgLearn.DashBoard@6913c1fb]" started-at="2024-08-08T08:09:30 IST" name="beforeSuite" finished-at="2024-08-08T08:09:30 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:testNgLearn.DashBoard@6913c1fb]" started-at="2024-08-08T08:09:30 IST" name="beforeTest" finished-at="2024-08-08T08:09:41 IST" duration-ms="10900" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="reachDashBoardPage()[pri:0, instance:testNgLearn.DashBoard@6913c1fb]" started-at="2024-08-08T08:09:41 IST" name="reachDashBoardPage" finished-at="2024-08-08T08:09:42 IST" duration-ms="1443" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reachDashBoardPage -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testNgLearn.DashBoard@6913c1fb]" started-at="2024-08-08T08:09:42 IST" name="beforeMethod" finished-at="2024-08-08T08:09:46 IST" duration-ms="4067" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validateDashboardPageContent()[pri:0, instance:testNgLearn.DashBoard@6913c1fb]" started-at="2024-08-08T08:09:46 IST" name="validateDashboardPageContent" finished-at="2024-08-08T08:09:47 IST" duration-ms="373" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateDashboardPageContent -->
+        <test-method is-config="true" signature="afterMethos()[pri:0, instance:testNgLearn.DashBoard@6913c1fb]" started-at="2024-08-08T08:09:47 IST" name="afterMethos" finished-at="2024-08-08T08:09:47 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethos -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testNgLearn.DashBoard@6913c1fb]" started-at="2024-08-08T08:09:47 IST" name="beforeMethod" finished-at="2024-08-08T08:09:53 IST" duration-ms="6670" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validateSections()[pri:0, instance:testNgLearn.DashBoard@6913c1fb]" started-at="2024-08-08T08:09:53 IST" name="validateSections" finished-at="2024-08-08T08:09:54 IST" duration-ms="950" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSections -->
+        <test-method is-config="true" signature="afterMethos()[pri:0, instance:testNgLearn.DashBoard@6913c1fb]" started-at="2024-08-08T08:09:54 IST" name="afterMethos" finished-at="2024-08-08T08:09:54 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethos -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testNgLearn.DashBoard@6913c1fb]" started-at="2024-08-08T08:09:54 IST" name="beforeMethod" finished-at="2024-08-08T08:09:57 IST" duration-ms="3277" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validateTitle()[pri:0, instance:testNgLearn.DashBoard@6913c1fb]" started-at="2024-08-08T08:09:57 IST" name="validateTitle" finished-at="2024-08-08T08:09:57 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTitle -->
+        <test-method is-config="true" signature="afterMethos()[pri:0, instance:testNgLearn.DashBoard@6913c1fb]" started-at="2024-08-08T08:09:57 IST" name="afterMethos" finished-at="2024-08-08T08:09:57 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethos -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:testNgLearn.DashBoard@6913c1fb]" started-at="2024-08-08T08:09:57 IST" name="afterClass" finished-at="2024-08-08T08:09:57 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:testNgLearn.DashBoard@6913c1fb]" started-at="2024-08-08T08:09:58 IST" name="afterTest" finished-at="2024-08-08T08:09:59 IST" duration-ms="1147" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:testNgLearn.DashBoard@6913c1fb]" started-at="2024-08-08T08:09:59 IST" name="afterSuite" finished-at="2024-08-08T08:09:59 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- testNgLearn.DashBoard -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
