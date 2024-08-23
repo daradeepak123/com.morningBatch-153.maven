@@ -33,12 +33,5 @@ public class SeleniumHelper {
 		
 		
 	}
-	
-	
-	
-	
-	
-	
-	
 
 }
