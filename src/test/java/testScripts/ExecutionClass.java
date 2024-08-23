@@ -11,6 +11,8 @@ public class ExecutionClass {
 	public static void main(String[] args) throws IOException {
 		BrowserChoice o=new BrowserChoice();
 		
+		System.out.println("this is browser changes");
+		
 		//driver=o.browserSelection();
 		
 		
